@@ -2,10 +2,10 @@
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
+- Student name: Brianna Williams
+- GitHub username: bwill4999
+- Project title: Customer Support Ticket Management System
+- Application purpose: A Python application that helps customer service and technical support employees create, organize,search, filter,and update customer support tickets while saving ticket information in a CSV file.
 
 ## How to Run the Application
 
